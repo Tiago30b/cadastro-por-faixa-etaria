@@ -51,7 +51,8 @@ Ana,10,crianca
 
 ## 👨‍💻 Autor
 
-**Tiago [Seu Sobrenome]**  
+**Tiago Freitas** 
+Formado em Análise e Desenvolvimento de Sistema
 Desenvolvedor em formação, apaixonado por lógica, organização de dados e novas tecnologias.
 
 ## 📝 Licença
