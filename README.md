@@ -29,10 +29,17 @@ python nome_do_arquivo.py
 ## 🧠 Tecnologias utilizadas
 
 - Python 3.x
+- FastAPI: Framework utilizado para criar a API RESTful.
+- Pydantic: Para a validação e estruturação dos dados.
 - Manipulação de arquivos (`open()`, `csv`)
 - Estrutura de dados com `listas` e `dicionários`
 - Modularização com funções
 - Validação de entrada (`try/except`, `.isalpha()`)
+
+## 🌐 API FastAPI
+Agora, é possível interagir com o sistema de cadastro de pessoas através de requisições HTTP.
+A versão do projeto com FastAPI adiciona uma interface de API para cadastrar e listar pessoas, além de fornecer estatísticas sobre os cadastros.
+
 
 ## 📂 Exemplo de saída `.txt`
 
